@@ -1,0 +1,2004 @@
+{
+  "version": "230316-064813",
+  "main": [],
+  "usable_items": [],
+  "weapons": [
+    {
+      "name": "helmet 0",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 0,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 1",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 1,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 2",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 2,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 3",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 3,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 4",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 4,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 5",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 5,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 6",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 6,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 7",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 7,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 8",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 8,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 9",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 9,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 10",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 10,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 11",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 11,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 12",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 12,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 13",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 13,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 14",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 14,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 15",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 15,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 16",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 16,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 17",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 17,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 18",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 18,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 19",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 19,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 20",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 20,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 21",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 21,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 22",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 22,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 23",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 23,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 24",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 24,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 25",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 25,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 26",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 26,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 27",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 27,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 28",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 28,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 29",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 29,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 30",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 30,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 31",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 31,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 32",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 32,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 33",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 33,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 34",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 34,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 35",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 35,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 36",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 36,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 37",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 37,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 38",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 38,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 39",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 39,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 40",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 40,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 41",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 41,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 42",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 42,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 43",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 43,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 44",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 44,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 45",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 45,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 46",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 46,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 47",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 47,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 48",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 48,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 49",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 49,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 50",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 50,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 51",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 51,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 52",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 52,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 53",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 53,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 54",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 54,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 55",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 55,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 56",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 56,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 57",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 57,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 58",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 58,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 59",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 59,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 60",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 60,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 61",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 61,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 62",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 62,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 63",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 63,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 64",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 64,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 65",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 65,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 66",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 66,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 67",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 67,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 68",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 68,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 69",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 69,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 70",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 70,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 71",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 71,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 72",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 72,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 73",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 73,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 74",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 74,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 75",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 75,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 76",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 76,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 77",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 77,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 78",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 78,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 79",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 79,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 80",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 80,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 81",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 81,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 82",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 82,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 83",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 83,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 84",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 84,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 85",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 85,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 86",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 86,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 87",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 87,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 88",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 88,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 89",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 89,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 90",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 90,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 91",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 91,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 92",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 92,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 93",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 93,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 94",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 94,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 95",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 95,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 96",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 96,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 97",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 97,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 98",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 98,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 99",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 99,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 100",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 100,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 101",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 101,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 102",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 102,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 103",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 103,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 104",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 104,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 105",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 105,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 106",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 106,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 107",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 107,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 108",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 108,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 109",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 109,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 110",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 110,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 111",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 111,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 112",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 112,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 113",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 113,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 114",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 114,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 115",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 115,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 116",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 116,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 117",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 117,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 118",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 118,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 119",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 119,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 120",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 120,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 121",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 121,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 122",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 122,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 123",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 123,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 124",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 124,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 125",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 125,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 126",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 126,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 127",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 127,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 128",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 128,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 129",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 129,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 130",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 130,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 131",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 131,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 132",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 132,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 133",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 133,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 134",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 134,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 135",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 135,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 136",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 136,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 137",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 137,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 138",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 138,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 139",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 139,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 140",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 140,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 141",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 141,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 142",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 142,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 143",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 143,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 144",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 144,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 145",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 145,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 146",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 146,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 147",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 147,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 148",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 148,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 149",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 149,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 150",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 150,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 151",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 151,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    },
+    {
+      "name": "helmet 152",
+      "tile": 0,
+      "color": 0,
+      "items": [
+        {
+          "part": 4,
+          "tile": 152,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "mounts": [],
+  "face": [],
+  "head": [],
+  "mantle": [],
+  "necklaces": [],
+  "coats": [],
+  "shoes": [],
+  "specialty_sets": []
+}

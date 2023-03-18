@@ -1,0 +1,180 @@
+{
+  "version": "230316-064813",
+  "main": [
+    {
+      "name": "Green gift box",
+      "tile": 4974,
+      "color": 35,
+      "items": [
+        {
+          "part": 0,
+          "tile": 0,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "usable_items": [
+    {
+      "name": "Green gift box",
+      "tile": 4974,
+      "color": 35,
+      "items": [
+        {
+          "part": 0,
+          "tile": 0,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Forest Fist",
+      "tile": 5740,
+      "color": 44,
+      "items": [
+        {
+          "part": 1,
+          "tile": 423,
+          "color": 44,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "mounts": [
+    {
+      "name": "Blush turtle shell",
+      "tile": 1520,
+      "color": 20,
+      "items": [
+        {
+          "part": 33,
+          "tile": 4,
+          "color": 3,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "face": [
+    {
+      "name": "Patch face",
+      "tile": 2881,
+      "color": 0,
+      "items": [
+        {
+          "part": 30,
+          "tile": 231,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "head": [
+    {
+      "name": "Mint chongot",
+      "tile": 3602,
+      "color": 11,
+      "items": [
+        {
+          "part": 23,
+          "tile": 97,
+          "color": 11,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "mantle": [
+    {
+      "name": "Vermilion mantle",
+      "tile": 3073,
+      "color": 29,
+      "items": [
+        {
+          "part": 14,
+          "tile": 0,
+          "color": 29,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "necklaces": [
+    {
+      "name": "Mystic multi necklace",
+      "tile": 3082,
+      "color": 6,
+      "items": [
+        {
+          "part": 6,
+          "tile": 4,
+          "color": 6,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "coats": [
+    {
+      "name": "Yoja berry hanbok",
+      "tile": 3603,
+      "color": 0,
+      "items": [
+        {
+          "part": 16,
+          "tile": 10053,
+          "color": 0,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "shoes": [
+    {
+      "name": "Winter taupe booties",
+      "tile": 3530,
+      "color": 30,
+      "items": [
+        {
+          "part": 13,
+          "tile": 35,
+          "color": 30,
+          "gender": 2
+        }
+      ]
+    }
+  ],
+  "specialty_sets": [
+    {
+      "name": "Apple green qi pao",
+      "tile": 3310,
+      "color": 14,
+      "items": [
+        {
+          "part": 16,
+          "tile": 10043,
+          "color": 30,
+          "gender": 2
+        },
+        {
+          "part": 13,
+          "tile": 33,
+          "color": 30,
+          "gender": 2
+        },
+        {
+          "part": 23,
+          "tile": 83,
+          "color": 30,
+          "gender": 2
+        }
+      ]
+    }
+  ]
+}

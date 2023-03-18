@@ -1,0 +1,25 @@
+{
+  "name": "ntk-dressup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "analyze": "ts-node src/analyze.ts",
+    "generate": "ts-node src/generate.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unkmc/ntk-dressup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unkmc/ntk-dressup/issues"
+  },
+  "homepage": "https://github.com/unkmc/ntk-dressup#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
